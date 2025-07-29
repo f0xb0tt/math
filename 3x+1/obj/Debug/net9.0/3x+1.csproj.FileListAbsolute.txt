@@ -1,0 +1,15 @@
+C:\Users\f0xb0t\Source\Repos\math\3x+1\obj\Debug\net9.0\3x+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f0xb0t\Source\Repos\math\3x+1\obj\Debug\net9.0\3x+1.AssemblyInfoInputs.cache
+C:\Users\f0xb0t\Source\Repos\math\3x+1\obj\Debug\net9.0\3x+1.AssemblyInfo.cs
+C:\Users\f0xb0t\Source\Repos\math\3x+1\obj\Debug\net9.0\3x+1.csproj.CoreCompileInputs.cache
+C:\Users\f0xb0t\Source\Repos\math\3x+1\obj\Debug\net9.0\3x+1.sourcelink.json
+C:\Users\f0xb0t\Source\Repos\math\3x+1\bin\Debug\net9.0\3x+1.exe
+C:\Users\f0xb0t\Source\Repos\math\3x+1\bin\Debug\net9.0\3x+1.deps.json
+C:\Users\f0xb0t\Source\Repos\math\3x+1\bin\Debug\net9.0\3x+1.runtimeconfig.json
+C:\Users\f0xb0t\Source\Repos\math\3x+1\bin\Debug\net9.0\3x+1.dll
+C:\Users\f0xb0t\Source\Repos\math\3x+1\bin\Debug\net9.0\3x+1.pdb
+C:\Users\f0xb0t\Source\Repos\math\3x+1\obj\Debug\net9.0\3x+1.dll
+C:\Users\f0xb0t\Source\Repos\math\3x+1\obj\Debug\net9.0\refint\3x+1.dll
+C:\Users\f0xb0t\Source\Repos\math\3x+1\obj\Debug\net9.0\3x+1.pdb
+C:\Users\f0xb0t\Source\Repos\math\3x+1\obj\Debug\net9.0\3x+1.genruntimeconfig.cache
+C:\Users\f0xb0t\Source\Repos\math\3x+1\obj\Debug\net9.0\ref\3x+1.dll
