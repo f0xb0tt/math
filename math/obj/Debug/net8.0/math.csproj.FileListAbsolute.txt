@@ -1,0 +1,14 @@
+C:\Users\f0xb0t\Desktop\math\math\obj\Debug\net8.0\math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f0xb0t\Desktop\math\math\obj\Debug\net8.0\math.AssemblyInfoInputs.cache
+C:\Users\f0xb0t\Desktop\math\math\obj\Debug\net8.0\math.AssemblyInfo.cs
+C:\Users\f0xb0t\Desktop\math\math\obj\Debug\net8.0\math.csproj.CoreCompileInputs.cache
+C:\Users\f0xb0t\Desktop\math\math\bin\Debug\net8.0\math.exe
+C:\Users\f0xb0t\Desktop\math\math\bin\Debug\net8.0\math.deps.json
+C:\Users\f0xb0t\Desktop\math\math\bin\Debug\net8.0\math.runtimeconfig.json
+C:\Users\f0xb0t\Desktop\math\math\bin\Debug\net8.0\math.dll
+C:\Users\f0xb0t\Desktop\math\math\bin\Debug\net8.0\math.pdb
+C:\Users\f0xb0t\Desktop\math\math\obj\Debug\net8.0\math.dll
+C:\Users\f0xb0t\Desktop\math\math\obj\Debug\net8.0\refint\math.dll
+C:\Users\f0xb0t\Desktop\math\math\obj\Debug\net8.0\math.pdb
+C:\Users\f0xb0t\Desktop\math\math\obj\Debug\net8.0\math.genruntimeconfig.cache
+C:\Users\f0xb0t\Desktop\math\math\obj\Debug\net8.0\ref\math.dll
