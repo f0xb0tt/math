@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\f0xb0t\\Desktop\\math\\math\\math.csproj",
+      "projectUniqueName": "C:\\Users\\f0xb0t\\Source\\Repos\\math\\math\\math.csproj",
       "projectName": "math",
-      "projectPath": "C:\\Users\\f0xb0t\\Desktop\\math\\math\\math.csproj",
+      "projectPath": "C:\\Users\\f0xb0t\\Source\\Repos\\math\\math\\math.csproj",
       "packagesPath": "C:\\Users\\f0xb0t\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\f0xb0t\\Desktop\\math\\math\\obj\\",
+      "outputPath": "C:\\Users\\f0xb0t\\Source\\Repos\\math\\math\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
