@@ -10,8 +10,10 @@ class Program
         DateTime dateTime = DateTime.Now;
         for (BigInteger i = 0; i <= count; i++)
         {
-            //Console.WriteLine($"{i.ToString()}");
+            Console.WriteLine($"{i.ToString()}");
         }
         Console.WriteLine($"counted to {count} in {(DateTime.Now - dateTime).TotalHours} hours");
+        Console.WriteLine("Press any key to exit...");
+        Console.ReadKey();
     }       
 }
