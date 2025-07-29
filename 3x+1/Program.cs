@@ -35,7 +35,7 @@ while (true)
 
     DateTime startUnoptimized = DateTime.Now;
     Dictionary<BigInteger, List<BigInteger>> unoptimizedList = new Dictionary<BigInteger, List<BigInteger>>();
-    for (BigInteger i = 1; i < inputNumber; i++)
+    for (BigInteger i = 1; i <= inputNumber; i++)
     {
         unoptimizedList[i] = new List<BigInteger>();
     }
